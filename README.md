@@ -37,9 +37,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name:DHAMINI S
+### Name:ABHINAV CS
 
-### Register Number:212224040064
+### Register Number:212224040006
 
 ```python
 import torch
